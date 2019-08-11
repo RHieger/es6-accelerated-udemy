@@ -1,0 +1,3 @@
+[submodule "es6Wiki"]
+	path = es6Wiki
+	url = https://RHieger@github.com/RHieger/es6-accelerated-udemy.wiki.git
