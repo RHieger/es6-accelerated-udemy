@@ -6,6 +6,13 @@
 //
 // https://gist.github.com/RHieger/574ce4659aa868c5b818c10250552064
 
+// In order to test this mini-app out on a local machine, simply navigate to its
+// folder using the 'file:///' syntax, in this case, the following path:
+
+// 'file:///Volumes/LaCie\ SSD/es6-accelearated-udemy/section-2/lecture-10/index.html'
+
+// To view the output from the button clicks, open the JavaScript console.
+
 // CONTRAST OLD STYLE AND FAT ARROW FUNCTIONS TO DEMONSTRATE ISSUE
 // WITH 'this' KEYWORD IN OLD STYLE FUNCTIONS:
 
